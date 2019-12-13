@@ -1,0 +1,13 @@
+C:\Users\iventis.lneto\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ScientistDotNet.exe
+C:\Users\iventis.lneto\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ScientistDotNet.deps.json
+C:\Users\iventis.lneto\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ScientistDotNet.runtimeconfig.json
+C:\Users\iventis.lneto\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ScientistDotNet.runtimeconfig.dev.json
+C:\Users\iventis.lneto\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ScientistDotNet.dll
+C:\Users\iventis.lneto\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ScientistDotNet.pdb
+C:\Users\iventis.lneto\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Scientist.dll
+C:\Users\iventis.lneto\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ScientistDotNet.csprojAssemblyReference.cache
+C:\Users\iventis.lneto\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ScientistDotNet.AssemblyInfoInputs.cache
+C:\Users\iventis.lneto\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ScientistDotNet.AssemblyInfo.cs
+C:\Users\iventis.lneto\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ScientistDotNet.csproj.CopyComplete
+C:\Users\iventis.lneto\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ScientistDotNet.dll
+C:\Users\iventis.lneto\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ScientistDotNet.pdb
